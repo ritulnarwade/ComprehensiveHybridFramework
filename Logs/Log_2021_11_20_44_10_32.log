@@ -1,0 +1,11 @@
+2021-11-20 22:44:36,291 DEBUG [main] BigSmall:14 - Driver Initialized
+2021-11-20 22:44:45,643 DEBUG [main] BigSmall:14 - Text verified successfully
+2021-11-20 22:44:55,259 DEBUG [main] BigSmall:14 - passed search product test case
+2021-11-20 22:45:05,137 DEBUG [main] BigSmall:14 - passed birthday gifts test cases
+2021-11-20 22:45:13,107 DEBUG [main] BigSmall:14 - passed shopbycategory test case
+2021-11-20 22:45:20,843 DEBUG [main] BigSmall:14 - passed lifestyle test case
+2021-11-20 22:45:29,517 DEBUG [main] BigSmall:14 - passed Merchandise test case
+2021-11-20 22:45:37,103 DEBUG [main] BigSmall:14 - passed Whatsnew test case
+2021-11-20 22:45:49,238 DEBUG [main] BigSmall:14 - passed personalizedtestcase test case
+2021-11-20 22:45:57,740 DEBUG [main] BigSmall:14 - passed corporategifts test case
+2021-11-20 22:46:08,231 DEBUG [main] BigSmall:14 - passed ChristmasGifts test case

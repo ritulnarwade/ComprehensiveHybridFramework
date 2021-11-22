@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97092" started-at="2021-11-20T22:44:32 IST" finished-at="2021-11-20T22:46:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97092" started-at="2021-11-20T22:44:32 IST" finished-at="2021-11-20T22:46:09 IST">
+      <class name="Runner.BigSmall">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Runner.BigSmall@7b69c6ba]" name="initialize" is-config="true" duration-ms="4184" started-at="2021-11-20T22:44:32 IST" finished-at="2021-11-20T22:44:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Allofit()[pri:1, instance:Runner.BigSmall@7b69c6ba]" name="Allofit" duration-ms="9325" started-at="2021-11-20T22:44:36 IST" finished-at="2021-11-20T22:44:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Allofit -->
+        <test-method status="PASS" signature="searchprod()[pri:2, instance:Runner.BigSmall@7b69c6ba]" name="searchprod" duration-ms="9615" started-at="2021-11-20T22:44:46 IST" finished-at="2021-11-20T22:44:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchprod -->
+        <test-method status="PASS" signature="birthdaygifts()[pri:3, instance:Runner.BigSmall@7b69c6ba]" name="birthdaygifts" duration-ms="9560" started-at="2021-11-20T22:44:55 IST" finished-at="2021-11-20T22:45:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- birthdaygifts -->
+        <test-method status="PASS" signature="shopbycategory()[pri:4, instance:Runner.BigSmall@7b69c6ba]" name="shopbycategory" duration-ms="7970" started-at="2021-11-20T22:45:05 IST" finished-at="2021-11-20T22:45:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopbycategory -->
+        <test-method status="PASS" signature="Homeandlifestyle()[pri:5, instance:Runner.BigSmall@7b69c6ba]" name="Homeandlifestyle" duration-ms="7959" started-at="2021-11-20T22:45:13 IST" finished-at="2021-11-20T22:45:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homeandlifestyle -->
+        <test-method status="PASS" signature="OfficialMerchandise()[pri:6, instance:Runner.BigSmall@7b69c6ba]" name="OfficialMerchandise" duration-ms="8448" started-at="2021-11-20T22:45:21 IST" finished-at="2021-11-20T22:45:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OfficialMerchandise -->
+        <test-method status="PASS" signature="WhatsNew()[pri:7, instance:Runner.BigSmall@7b69c6ba]" name="WhatsNew" duration-ms="7576" started-at="2021-11-20T22:45:29 IST" finished-at="2021-11-20T22:45:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WhatsNew -->
+        <test-method status="PASS" signature="PersonalizedGifts()[pri:8, instance:Runner.BigSmall@7b69c6ba]" name="PersonalizedGifts" duration-ms="12320" started-at="2021-11-20T22:45:37 IST" finished-at="2021-11-20T22:45:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalizedGifts -->
+        <test-method status="PASS" signature="CorporateGifts()[pri:9, instance:Runner.BigSmall@7b69c6ba]" name="CorporateGifts" duration-ms="8375" started-at="2021-11-20T22:45:49 IST" finished-at="2021-11-20T22:45:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CorporateGifts -->
+        <test-method status="PASS" signature="ChristmasGifts()[pri:10, instance:Runner.BigSmall@7b69c6ba]" name="ChristmasGifts" duration-ms="11641" started-at="2021-11-20T22:45:58 IST" finished-at="2021-11-20T22:46:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChristmasGifts -->
+      </class> <!-- Runner.BigSmall -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
